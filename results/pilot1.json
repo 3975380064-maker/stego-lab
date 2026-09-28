@@ -1,0 +1,12 @@
+{
+  "N_per_class": 400,
+  "embed_rate_bpp": 0.4,
+  "AUC_natural_cover_vs_stego": 0.9955,
+  "AUC_synthetic_cover_vs_stego": 0.9405,
+  "AUC_carrier_natural_vs_synthetic": 1.0,
+  "AUC_xfer_trained_natural_tested_synthetic": 0.7218,
+  "AUC_xfer_trained_synthetic_tested_natural": 0.4904,
+  "BER_jpeg70_natural": 0.4997,
+  "BER_jpeg70_synthetic": 0.5003,
+  "runtime_s": 29.6
+}

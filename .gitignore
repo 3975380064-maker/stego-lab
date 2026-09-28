@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# data (downloaded at runtime)
+/natural/
+/probe.jpg
+/sample_stego.png
+/result_pilot1.json
+
+# preview tiles: keep only the montage used by the README
+/preview/*
+!/preview/MONTAGE.png
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
