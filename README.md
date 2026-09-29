@@ -156,7 +156,7 @@ The productive directions are the ones this repo points *at*, not the ones it de
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+CC BY-NC-SA 4.0 — **non-commercial use only. 禁止商用。** See [LICENSE](LICENSE).
 
 ---
 
