@@ -156,7 +156,7 @@ The productive directions are the ones this repo points *at*, not the ones it de
 
 ## License
 
-CC BY-NC-SA 4.0 — **non-commercial use only. 禁止商用。** See [LICENSE](LICENSE).
+Apache-2.0 + 附加「禁止商用」条款（详见 NOTICE）。**非 OSI 标准开源许可。** See [LICENSE](LICENSE).
 
 ---
 
