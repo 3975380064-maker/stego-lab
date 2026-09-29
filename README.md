@@ -157,3 +157,22 @@ The productive directions are the ones this repo points *at*, not the ones it de
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## 中文摘要 / Chinese summary
+
+本�y库是“尾部追加容器 + 实测对照”的仓库：
+
+- `stegobox.py`：简易尾部追加容器（AES-GCM 加密、SHA-256 完整性校验）
+- `experiment.py` / `validate.py` / `stats.py` / `payload_entropy.py`：隐写可检测性实验（对照组、嵌入率扫描、多种子重复划分、学习曲线）
+- `scramble_demo.py` / `chaos_reversibility.py` / `bitdepth_capacity.py`：对“置换加密 / 混沌可逆性 / 位深提容量”等直觉的实测反驳
+- `results/`：全部实测数字
+
+**核心结论**：搭异的数学载体（挂谷集 / 分形 / 置乱 / 混沌）并不能提高隐写的安全性；加密与可检测性是正交的。
+
+## License / 协议
+
+**CC BY-NC-SA 4.0 — non-commercial use only. 禁止商用。**
+
+完整条款见 [LICENSE](LICENSE)。
